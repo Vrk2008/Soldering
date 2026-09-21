@@ -67,3 +67,6 @@ Truth Table Verification
 **Result**
 
 The discrete series hardware circuit was successfully assembled and permanently soldered onto the prototyping PCB. Functional validation testing confirmed that the LED illuminates exclusively when both mechanical switches are toggled into their closed states. The physical experiment perfectly demonstrates the operational parameters and logic state characteristics of a standard digital two-input AND gate.  
+<img width="900" height="1600" alt="solder" src="https://github.com/user-attachments/assets/1061aad5-c53f-466b-acae-9e162fdf3ccf" />
+<img width="900" height="1600" alt="solderlight" src="https://github.com/user-attachments/assets/f25ef2a5-8d0d-4a6b-90b5-1a57ede04a7d" />
+
